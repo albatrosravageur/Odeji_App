@@ -38,9 +38,7 @@ public class DeviceControlActivity extends AppCompatActivity {
             }
         });*/
 
-       // mBTArrayAdapter = new ArrayAdapter<>(this, android.R.layout.simple_list_item_1);
-       // mBTAdapter = BluetoothAdapter.getDefaultAdapter(); // get a handle on the bluetooth radio
+        // mBTArrayAdapter = new ArrayAdapter<>(this, android.R.layout.simple_list_item_1);
+        // mBTAdapter = BluetoothAdapter.getDefaultAdapter(); // get a handle on the bluetooth radio
     }
-
-
 }

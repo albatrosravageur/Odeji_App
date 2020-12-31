@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Odeji</string>
+    <string name="meeting_id">Meeting ID</string>
+    <string name="set_meeting_id">Set Meeting ID</string>
+    <string name="get">Get</string>
+    <string name="set">Set</string>
+    <string name="hack_your_meeting_nwith_odeji">Hack your meeting \nwith Odeji !</string>
+    <string name="get_status">Get status</string>
+</resources>

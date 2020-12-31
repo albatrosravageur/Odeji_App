@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "/home/albatros/Documents/COURS-EPFL/CHIC/APP/Odeji_app/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "/home/albatros/Documents/COURS-EPFL/CHIC/APP/Odeji_app/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/albatros/Documents/COURS-EPFL/CHIC/APP/Odeji_app/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "/home/albatros/Documents/COURS-EPFL/CHIC/APP/Odeji_app/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/albatros/Documents/COURS-EPFL/CHIC/APP/Odeji_app/app/build/intermediates/res/merged/debug/drawable_logo_odeji.jpeg.flat",
+        "source": "/home/albatros/Documents/COURS-EPFL/CHIC/APP/Odeji_app/app/src/main/res/drawable/logo_odeji.jpeg"
+    },
+    {
+        "merged": "/home/albatros/Documents/COURS-EPFL/CHIC/APP/Odeji_app/app/build/intermediates/res/merged/debug/layout_activity_main.xml.flat",
+        "source": "/home/albatros/Documents/COURS-EPFL/CHIC/APP/Odeji_app/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/home/albatros/Documents/COURS-EPFL/CHIC/APP/Odeji_app/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "/home/albatros/Documents/COURS-EPFL/CHIC/APP/Odeji_app/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/albatros/Documents/COURS-EPFL/CHIC/APP/Odeji_app/app/build/intermediates/res/merged/debug/drawable_logo.jpeg.flat",
+        "source": "/home/albatros/Documents/COURS-EPFL/CHIC/APP/Odeji_app/app/src/main/res/drawable/logo.jpeg"
+    },
+    {
+        "merged": "/home/albatros/Documents/COURS-EPFL/CHIC/APP/Odeji_app/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "/home/albatros/Documents/COURS-EPFL/CHIC/APP/Odeji_app/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/albatros/Documents/COURS-EPFL/CHIC/APP/Odeji_app/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "/home/albatros/Documents/COURS-EPFL/CHIC/APP/Odeji_app/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/albatros/Documents/COURS-EPFL/CHIC/APP/Odeji_app/app/build/intermediates/res/merged/debug/layout_activity_device_control.xml.flat",
+        "source": "/home/albatros/Documents/COURS-EPFL/CHIC/APP/Odeji_app/app/src/main/res/layout/activity_device_control.xml"
+    }
+]

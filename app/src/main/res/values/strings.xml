@@ -1,9 +1,31 @@
 <resources>
+    <string name="ssid"></string>
+    <string name="password"></string>
+    <string name="your_meeting_id"></string>
+    <string name="connect_to_meeting"></string>
+    <string name="wifi_state_text"></string>
+    <string name="meetingID"></string>
+
     <string name="app_name">Odeji</string>
     <string name="meeting_id">Meeting ID</string>
     <string name="set_meeting_id">Set Meeting ID</string>
     <string name="get">Get</string>
     <string name="set">Set</string>
-    <string name="hack_your_meeting_nwith_odeji">Hack your meeting \nwith Odeji !</string>
     <string name="get_status">Get status</string>
+    <string name="status">Status:</string>
+    <string name="rx">RX:</string>
+    <string name="lt_bluetooth_status"><![CDATA[<Bluetooth Status>]]></string>
+    <string name="lt_read_buffer"><![CDATA[<Read Buffer>]]></string>
+    <string name="hack_your_meeting_with_odeji">Hack your meeting with Odeji !</string>
+    <string name="bluetooth_on">Bluetooth ON</string>
+    <string name="bluetooth_off">Bluetooth OFF</string>
+    <string name="show_paired_devices">Show paired Devices</string>
+    <string name="find_new_devices">Find New Devices</string>
+    <string name="wifi_ssid">WiFi SSID</string>
+    <string name="wifi_password">WiFi Password</string>
+    <string name="connect">Connect</string>
+    <string name="wifi_state">WiFi State</string>
+
+
+    <string name="todo">TODO</string>
 </resources>

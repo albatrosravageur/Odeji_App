@@ -23,7 +23,7 @@
     <application
         android:allowBackup="true"
         android:debuggable="true"
-        android:icon="@drawable/logo_odeji"
+        android:icon="@drawable/playstore"
         android:label="@string/app_name"
         android:supportsRtl="true"
         android:testOnly="true"
@@ -35,7 +35,6 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name="com.mcuhq.simplebluetooth.DeviceControlActivity" />
     </application>
 
 </manifest>
